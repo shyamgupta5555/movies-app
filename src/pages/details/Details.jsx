@@ -5,8 +5,8 @@ import { useParams } from 'react-router-dom'
 import DetailsBanner from './detailsBanner/DetailsBanner'
 import Cast from './cast/cast'
 import VideosSection from './videoSection/VideosSection'
-import Similar from './carousels/Similar'
-import Recommendation from './carousels/Recommendation'
+import Similar from './carousels123/Similar'
+import Recommendation from './carousels123/Recommendation'
 
 
 function Details() {
